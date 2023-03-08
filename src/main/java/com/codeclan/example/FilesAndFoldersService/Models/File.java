@@ -1,6 +1,4 @@
-package Models;
-
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+package com.codeclan.example.FilesAndFoldersService.Models;
 
 import javax.persistence.*;
 

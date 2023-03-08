@@ -1,7 +1,7 @@
-package Controllers;
+package com.codeclan.example.FilesAndFoldersService.Controllers;
 
-import Models.Person;
-import Repositories.PersonRepository;
+import com.codeclan.example.FilesAndFoldersService.Models.Person;
+import com.codeclan.example.FilesAndFoldersService.Repositories.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

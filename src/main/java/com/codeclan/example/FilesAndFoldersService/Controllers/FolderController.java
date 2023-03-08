@@ -1,7 +1,7 @@
-package Controllers;
+package com.codeclan.example.FilesAndFoldersService.Controllers;
 
-import Models.Folder;
-import Repositories.FolderRepository;
+import com.codeclan.example.FilesAndFoldersService.Models.Folder;
+import com.codeclan.example.FilesAndFoldersService.Repositories.FolderRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

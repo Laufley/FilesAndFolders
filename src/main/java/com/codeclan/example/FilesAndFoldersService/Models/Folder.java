@@ -1,4 +1,4 @@
-package Models;
+package com.codeclan.example.FilesAndFoldersService.Models;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
